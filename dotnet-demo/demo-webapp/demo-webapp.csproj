@@ -5,7 +5,6 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>demo_webapp</RootNamespace>
-    <OutputType>Library</OutputType>
     <RuntimeIdentifier>linux-musl-x64</RuntimeIdentifier>
   </PropertyGroup>
 
